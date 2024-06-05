@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @SpectralProductions
+- 👋 Hi, I’m @B. Sanjay Krishna
+- 
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning Python
 - 📫 How to reach me spectralproductions@gmail.com
