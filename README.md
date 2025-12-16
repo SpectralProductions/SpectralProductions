@@ -2,7 +2,7 @@
 - 
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning Python
-- 📫 How to reach me spectralproductions@gmail.com
+- 📫 How to reach me sanjaykrishna.bhaskar@gmail.com
 
 <!---
 SpectralProductions/SpectralProductions is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
